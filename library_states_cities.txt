@@ -1,0 +1,537 @@
+state;ALABAMA;https://geo.craigslist.org/iso/us/al;10
+city;AUBURN;//auburn.craigslist.org/
+city;BIRMINGHAM;//bham.craigslist.org/
+city;COLUMBUS, GA;//columbusga.craigslist.org/
+city;DOTHAN;//dothan.craigslist.org/
+city;FLORENCE / MUSCLE SHOALS;//shoals.craigslist.org/
+city;GADSDEN-ANNISTON;//gadsden.craigslist.org/
+city;HUNTSVILLE / DECATUR;//huntsville.craigslist.org/
+city;MOBILE;//mobile.craigslist.org/
+city;MONTGOMERY;//montgomery.craigslist.org/
+city;TUSCALOOSA;//tuscaloosa.craigslist.org/
+
+state;ALASKA;https://geo.craigslist.org/iso/us/ak;4
+city;ANCHORAGE / MAT-SU;//anchorage.craigslist.org/
+city;FAIRBANKS;//fairbanks.craigslist.org/
+city;KENAI PENINSULA;//kenai.craigslist.org/
+city;SOUTHEAST ALASKA;//juneau.craigslist.org/
+
+state;ARIZONA;https://geo.craigslist.org/iso/us/az;8
+city;FLAGSTAFF / SEDONA;//flagstaff.craigslist.org/
+city;MOHAVE COUNTY;//mohave.craigslist.org/
+city;PHOENIX;//phoenix.craigslist.org/
+city;PRESCOTT;//prescott.craigslist.org/
+city;SHOW LOW;//showlow.craigslist.org/
+city;SIERRA VISTA;//sierravista.craigslist.org/
+city;TUCSON;//tucson.craigslist.org/
+city;YUMA;//yuma.craigslist.org/
+
+state;ARKANSAS;https://geo.craigslist.org/iso/us/ar;6
+city;FAYETTEVILLE;//fayar.craigslist.org/
+city;FORT SMITH;//fortsmith.craigslist.org/
+city;JONESBORO;//jonesboro.craigslist.org/
+city;LITTLE ROCK;//littlerock.craigslist.org/
+city;MEMPHIS, TN;//memphis.craigslist.org/
+city;TEXARKANA;//texarkana.craigslist.org/
+
+state;CALIFORNIA;https://geo.craigslist.org/iso/us/ca;29
+city;BAKERSFIELD;//bakersfield.craigslist.org/
+city;CHICO;//chico.craigslist.org/
+city;FRESNO / MADERA;//fresno.craigslist.org/
+city;GOLD COUNTRY;//goldcountry.craigslist.org/
+city;HANFORD-CORCORAN;//hanford.craigslist.org/
+city;HUMBOLDT COUNTY;//humboldt.craigslist.org/
+city;IMPERIAL COUNTY;//imperial.craigslist.org/
+city;INLAND EMPIRE;//inlandempire.craigslist.org/
+city;LOS ANGELES;//losangeles.craigslist.org/
+city;MENDOCINO COUNTY;//mendocino.craigslist.org/
+city;MERCED;//merced.craigslist.org/
+city;MODESTO;//modesto.craigslist.org/
+city;MONTEREY BAY;//monterey.craigslist.org/
+city;ORANGE COUNTY;//orangecounty.craigslist.org/
+city;PALM SPRINGS;//palmsprings.craigslist.org/
+city;REDDING;//redding.craigslist.org/
+city;RENO / TAHOE;//reno.craigslist.org/
+city;SACRAMENTO;//sacramento.craigslist.org/
+city;SAN DIEGO;//sandiego.craigslist.org/
+city;SAN LUIS OBISPO;//slo.craigslist.org/
+city;SANTA BARBARA;//santabarbara.craigslist.org/
+city;SANTA MARIA;//santamaria.craigslist.org/
+city;SF BAY AREA;//sfbay.craigslist.org/
+city;SISKIYOU COUNTY;//siskiyou.craigslist.org/
+city;STOCKTON;//stockton.craigslist.org/
+city;SUSANVILLE;//susanville.craigslist.org/
+city;VENTURA COUNTY;//ventura.craigslist.org/
+city;VISALIA-TULARE;//visalia.craigslist.org/
+city;YUBA-SUTTER;//yubasutter.craigslist.org/
+
+state;COLORADO;https://geo.craigslist.org/iso/us/co;8
+city;BOULDER;//boulder.craigslist.org/
+city;COLORADO SPRINGS;//cosprings.craigslist.org/
+city;DENVER;//denver.craigslist.org/
+city;EASTERN CO;//eastco.craigslist.org/
+city;FORT COLLINS / NORTH CO;//fortcollins.craigslist.org/
+city;HIGH ROCKIES;//rockies.craigslist.org/
+city;PUEBLO;//pueblo.craigslist.org/
+city;WESTERN SLOPE;//westslope.craigslist.org/
+
+state;CONNECTICUT;https://geo.craigslist.org/iso/us/ct;5
+city;EASTERN CT;//newlondon.craigslist.org/
+city;HARTFORD;//hartford.craigslist.org/
+city;NEW HAVEN;//newhaven.craigslist.org/
+city;NORTHWEST CT;//nwct.craigslist.org/
+city;FAIRFIELD COUNTY;//newyork.craigslist.org/fct/
+
+state;DC;https://geo.craigslist.org/iso/us/dc;0
+
+state;DELAWARE;https://geo.craigslist.org/iso/us/de;0
+
+state;FLORIDA;https://geo.craigslist.org/iso/us/fl;20
+city;DAYTONA BEACH;//daytona.craigslist.org/
+city;FLORIDA KEYS;//keys.craigslist.org/
+city;FT MYERS / SW FLORIDA;//fortmyers.craigslist.org/
+city;GAINESVILLE;//gainesville.craigslist.org/
+city;HEARTLAND FLORIDA;//cfl.craigslist.org/
+city;JACKSONVILLE;//jacksonville.craigslist.org/
+city;LAKELAND;//lakeland.craigslist.org/
+city;NORTH CENTRAL FL;//lakecity.craigslist.org/
+city;OCALA;//ocala.craigslist.org/
+city;OKALOOSA / WALTON;//okaloosa.craigslist.org/
+city;ORLANDO;//orlando.craigslist.org/
+city;PANAMA CITY;//panamacity.craigslist.org/
+city;PENSACOLA;//pensacola.craigslist.org/
+city;SARASOTA-BRADENTON;//sarasota.craigslist.org/
+city;SOUTH FLORIDA;//miami.craigslist.org/
+city;SPACE COAST;//spacecoast.craigslist.org/
+city;ST AUGUSTINE;//staugustine.craigslist.org/
+city;TALLAHASSEE;//tallahassee.craigslist.org/
+city;TAMPA BAY AREA;//tampa.craigslist.org/
+city;TREASURE COAST;//treasure.craigslist.org/
+
+state;GEORGIA;https://geo.craigslist.org/iso/us/ga;11
+city;ALBANY;//albanyga.craigslist.org/
+city;ATHENS;//athensga.craigslist.org/
+city;ATLANTA;//atlanta.craigslist.org/
+city;AUGUSTA;//augusta.craigslist.org/
+city;BRUNSWICK;//brunswick.craigslist.org/
+city;COLUMBUS;//columbusga.craigslist.org/
+city;MACON / WARNER ROBINS;//macon.craigslist.org/
+city;NORTHWEST GA;//nwga.craigslist.org/
+city;SAVANNAH / HINESVILLE;//savannah.craigslist.org/
+city;STATESBORO;//statesboro.craigslist.org/
+city;VALDOSTA;//valdosta.craigslist.org/
+
+state;HAWAII;https://geo.craigslist.org/iso/us/hi;0
+
+state;IDAHO;https://geo.craigslist.org/iso/us/id;6
+city;BOISE;//boise.craigslist.org/
+city;EAST IDAHO;//eastidaho.craigslist.org/
+city;LEWISTON / CLARKSTON;//lewiston.craigslist.org/
+city;PULLMAN / MOSCOW;//pullman.craigslist.org/
+city;SPOKANE / COEUR D'ALENE;//spokane.craigslist.org/
+city;TWIN FALLS;//twinfalls.craigslist.org/
+
+state;ILLINOIS;https://geo.craigslist.org/iso/us/il;13
+city;BLOOMINGTON-NORMAL;//bn.craigslist.org/
+city;CHAMPAIGN URBANA;//chambana.craigslist.org/
+city;CHICAGO;//chicago.craigslist.org/
+city;DECATUR;//decatur.craigslist.org/
+city;LA SALLE CO;//lasalle.craigslist.org/
+city;MATTOON-CHARLESTON;//mattoon.craigslist.org/
+city;PEORIA;//peoria.craigslist.org/
+city;QUAD CITIES, IA/IL;//quadcities.craigslist.org/
+city;ROCKFORD;//rockford.craigslist.org/
+city;SOUTHERN ILLINOIS;//carbondale.craigslist.org/
+city;SPRINGFIELD;//springfieldil.craigslist.org/
+city;ST LOUIS, MO;//stlouis.craigslist.org/
+city;WESTERN IL;//quincy.craigslist.org/
+
+state;INDIANA;https://geo.craigslist.org/iso/us/in;11
+city;BLOOMINGTON;//bloomington.craigslist.org/
+city;EVANSVILLE;//evansville.craigslist.org/
+city;FORT WAYNE;//fortwayne.craigslist.org/
+city;INDIANAPOLIS;//indianapolis.craigslist.org/
+city;KOKOMO;//kokomo.craigslist.org/
+city;LAFAYETTE / WEST LAFAYETTE;//tippecanoe.craigslist.org/
+city;MUNCIE / ANDERSON;//muncie.craigslist.org/
+city;RICHMOND;//richmondin.craigslist.org/
+city;SOUTH BEND / MICHIANA;//southbend.craigslist.org/
+city;TERRE HAUTE;//terrehaute.craigslist.org/
+city;NORTHWEST INDIANA;//chicago.craigslist.org/nwi/
+
+state;IOWA;https://geo.craigslist.org/iso/us/ia;12
+city;AMES;//ames.craigslist.org/
+city;CEDAR RAPIDS;//cedarrapids.craigslist.org/
+city;DES MOINES;//desmoines.craigslist.org/
+city;DUBUQUE;//dubuque.craigslist.org/
+city;FORT DODGE;//fortdodge.craigslist.org/
+city;IOWA CITY;//iowacity.craigslist.org/
+city;MASON CITY;//masoncity.craigslist.org/
+city;OMAHA / COUNCIL BLUFFS;//omaha.craigslist.org/
+city;QUAD CITIES, IA/IL;//quadcities.craigslist.org/
+city;SIOUX CITY;//siouxcity.craigslist.org/
+city;SOUTHEAST IA;//ottumwa.craigslist.org/
+city;WATERLOO / CEDAR FALLS;//waterloo.craigslist.org/
+
+state;KANSAS;https://geo.craigslist.org/iso/us/ks;9
+city;KANSAS CITY, MO;//kansascity.craigslist.org/
+city;LAWRENCE;//lawrence.craigslist.org/
+city;MANHATTAN;//ksu.craigslist.org/
+city;NORTHWEST KS;//nwks.craigslist.org/
+city;SALINA;//salina.craigslist.org/
+city;SOUTHEAST KS;//seks.craigslist.org/
+city;SOUTHWEST KS;//swks.craigslist.org/
+city;TOPEKA;//topeka.craigslist.org/
+city;WICHITA;//wichita.craigslist.org/
+
+state;KENTUCKY;https://geo.craigslist.org/iso/us/ky;8
+city;BOWLING GREEN;//bgky.craigslist.org/
+city;CINCINNATI, OH;//cincinnati.craigslist.org/
+city;EASTERN KENTUCKY;//eastky.craigslist.org/
+city;HUNTINGTON-ASHLAND;//huntington.craigslist.org/
+city;LEXINGTON;//lexington.craigslist.org/
+city;LOUISVILLE;//louisville.craigslist.org/
+city;OWENSBORO;//owensboro.craigslist.org/
+city;WESTERN KY;//westky.craigslist.org/
+
+state;LOUISIANA;https://geo.craigslist.org/iso/us/la;8
+city;BATON ROUGE;//batonrouge.craigslist.org/
+city;CENTRAL LOUISIANA;//cenla.craigslist.org/
+city;HOUMA;//houma.craigslist.org/
+city;LAFAYETTE;//lafayette.craigslist.org/
+city;LAKE CHARLES;//lakecharles.craigslist.org/
+city;MONROE;//monroe.craigslist.org/
+city;NEW ORLEANS;//neworleans.craigslist.org/
+city;SHREVEPORT;//shreveport.craigslist.org/
+
+state;MAINE;https://geo.craigslist.org/iso/us/me;0
+
+state;MARYLAND;https://geo.craigslist.org/iso/us/md;8
+city;ANNAPOLIS;//annapolis.craigslist.org/
+city;BALTIMORE;//baltimore.craigslist.org/
+city;CUMBERLAND VALLEY;//chambersburg.craigslist.org/
+city;EASTERN SHORE;//easternshore.craigslist.org/
+city;FREDERICK;//frederick.craigslist.org/
+city;SOUTHERN MARYLAND;//smd.craigslist.org/
+city;WESTERN MARYLAND;//westmd.craigslist.org/
+city;MD SUBURBS OF DC;//washingtondc.craigslist.org/mld/
+
+state;MASS;https://geo.craigslist.org/iso/us/ma;5
+city;BOSTON;//boston.craigslist.org/
+city;CAPE COD / ISLANDS;//capecod.craigslist.org/
+city;SOUTH COAST;//southcoast.craigslist.org/
+city;WESTERN MASSACHUSETTS;//westernmass.craigslist.org/
+city;WORCESTER / CENTRAL MA;//worcester.craigslist.org/
+
+state;MICHIGAN;https://geo.craigslist.org/iso/us/mi;19
+city;ANN ARBOR;//annarbor.craigslist.org/
+city;BATTLE CREEK;//battlecreek.craigslist.org/
+city;CENTRAL MICHIGAN;//centralmich.craigslist.org/
+city;DETROIT METRO;//detroit.craigslist.org/
+city;FLINT;//flint.craigslist.org/
+city;GRAND RAPIDS;//grandrapids.craigslist.org/
+city;HOLLAND;//holland.craigslist.org/
+city;JACKSON;//jxn.craigslist.org/
+city;KALAMAZOO;//kalamazoo.craigslist.org/
+city;LANSING;//lansing.craigslist.org/
+city;MONROE;//monroemi.craigslist.org/
+city;MUSKEGON;//muskegon.craigslist.org/
+city;NORTHERN MICHIGAN;//nmi.craigslist.org/
+city;PORT HURON;//porthuron.craigslist.org/
+city;SAGINAW-MIDLAND-BAYCITY;//saginaw.craigslist.org/
+city;SOUTH BEND / MICHIANA;//southbend.craigslist.org/
+city;SOUTHWEST MICHIGAN;//swmi.craigslist.org/
+city;THE THUMB;//thumb.craigslist.org/
+city;UPPER PENINSULA;//up.craigslist.org/
+
+state;MINNESOTA;https://geo.craigslist.org/iso/us/mn;9
+city;BEMIDJI;//bemidji.craigslist.org/
+city;BRAINERD;//brainerd.craigslist.org/
+city;DULUTH / SUPERIOR;//duluth.craigslist.org/
+city;FARGO / MOORHEAD;//fargo.craigslist.org/
+city;MANKATO;//mankato.craigslist.org/
+city;MINNEAPOLIS / ST PAUL;//minneapolis.craigslist.org/
+city;ROCHESTER;//rmn.craigslist.org/
+city;SOUTHWEST MN;//marshall.craigslist.org/
+city;ST CLOUD;//stcloud.craigslist.org/
+
+state;MISSISSIPPI;https://geo.craigslist.org/iso/us/ms;7
+city;GULFPORT / BILOXI;//gulfport.craigslist.org/
+city;HATTIESBURG;//hattiesburg.craigslist.org/
+city;JACKSON;//jackson.craigslist.org/
+city;MEMPHIS, TN;//memphis.craigslist.org/
+city;MERIDIAN;//meridian.craigslist.org/
+city;NORTH MISSISSIPPI;//northmiss.craigslist.org/
+city;SOUTHWEST MS;//natchez.craigslist.org/
+
+state;MISSOURI;https://geo.craigslist.org/iso/us/mo;9
+city;COLUMBIA / JEFF CITY;//columbiamo.craigslist.org/
+city;JOPLIN;//joplin.craigslist.org/
+city;KANSAS CITY;//kansascity.craigslist.org/
+city;KIRKSVILLE;//kirksville.craigslist.org/
+city;LAKE OF THE OZARKS;//loz.craigslist.org/
+city;SOUTHEAST MISSOURI;//semo.craigslist.org/
+city;SPRINGFIELD;//springfield.craigslist.org/
+city;ST JOSEPH;//stjoseph.craigslist.org/
+city;ST LOUIS;//stlouis.craigslist.org/
+
+state;MONTANA;https://geo.craigslist.org/iso/us/mt;8
+city;BILLINGS;//billings.craigslist.org/
+city;BOZEMAN;//bozeman.craigslist.org/
+city;BUTTE;//butte.craigslist.org/
+city;EASTERN MONTANA;//montana.craigslist.org/
+city;GREAT FALLS;//greatfalls.craigslist.org/
+city;HELENA;//helena.craigslist.org/
+city;KALISPELL;//kalispell.craigslist.org/
+city;MISSOULA;//missoula.craigslist.org/
+
+state;N CAROLINA;https://geo.craigslist.org/iso/us/nc;12
+city;ASHEVILLE;//asheville.craigslist.org/
+city;BOONE;//boone.craigslist.org/
+city;CHARLOTTE;//charlotte.craigslist.org/
+city;EASTERN NC;//eastnc.craigslist.org/
+city;FAYETTEVILLE;//fayetteville.craigslist.org/
+city;GREENSBORO;//greensboro.craigslist.org/
+city;HICKORY / LENOIR;//hickory.craigslist.org/
+city;JACKSONVILLE;//onslow.craigslist.org/
+city;OUTER BANKS;//outerbanks.craigslist.org/
+city;RALEIGH / DURHAM / CH;//raleigh.craigslist.org/
+city;WILMINGTON;//wilmington.craigslist.org/
+city;WINSTON-SALEM;//winstonsalem.craigslist.org/
+
+state;NEBRASKA;https://geo.craigslist.org/iso/us/ne;6
+city;GRAND ISLAND;//grandisland.craigslist.org/
+city;LINCOLN;//lincoln.craigslist.org/
+city;NORTH PLATTE;//northplatte.craigslist.org/
+city;OMAHA / COUNCIL BLUFFS;//omaha.craigslist.org/
+city;SCOTTSBLUFF / PANHANDLE;//scottsbluff.craigslist.org/
+city;SIOUX CITY, IA;//siouxcity.craigslist.org/
+
+state;NEVADA;https://geo.craigslist.org/iso/us/nv;3
+city;ELKO;//elko.craigslist.org/
+city;LAS VEGAS;//lasvegas.craigslist.org/
+city;RENO / TAHOE;//reno.craigslist.org/
+
+state;NEW JERSEY;https://geo.craigslist.org/iso/us/nj;5
+city;CENTRAL NJ;//cnj.craigslist.org/
+city;JERSEY SHORE;//jerseyshore.craigslist.org/
+city;NORTH JERSEY;//newjersey.craigslist.org/
+city;SOUTH JERSEY;//southjersey.craigslist.org/
+city;NJ SUBURBS OF NYC;//newyork.craigslist.org/jsy/
+
+state;NEW MEXICO;https://geo.craigslist.org/iso/us/nm;6
+city;ALBUQUERQUE;//albuquerque.craigslist.org/
+city;CLOVIS / PORTALES;//clovis.craigslist.org/
+city;FARMINGTON;//farmington.craigslist.org/
+city;LAS CRUCES;//lascruces.craigslist.org/
+city;ROSWELL / CARLSBAD;//roswell.craigslist.org/
+city;SANTA FE / TAOS;//santafe.craigslist.org/
+
+state;NEW YORK;https://geo.craigslist.org/iso/us/ny;20
+city;ALBANY;//albany.craigslist.org/
+city;BINGHAMTON;//binghamton.craigslist.org/
+city;BUFFALO;//buffalo.craigslist.org/
+city;CATSKILLS;//catskills.craigslist.org/
+city;CHAUTAUQUA;//chautauqua.craigslist.org/
+city;ELMIRA-CORNING;//elmira.craigslist.org/
+city;FINGER LAKES;//fingerlakes.craigslist.org/
+city;GLENS FALLS;//glensfalls.craigslist.org/
+city;HUDSON VALLEY;//hudsonvalley.craigslist.org/
+city;ITHACA;//ithaca.craigslist.org/
+city;LONG ISLAND;//longisland.craigslist.org/
+city;NEW YORK CITY;//newyork.craigslist.org/
+city;ONEONTA;//oneonta.craigslist.org/
+city;PLATTSBURGH-ADIRONDACKS;//plattsburgh.craigslist.org/
+city;POTSDAM-CANTON-MASSENA;//potsdam.craigslist.org/
+city;ROCHESTER;//rochester.craigslist.org/
+city;SYRACUSE;//syracuse.craigslist.org/
+city;TWIN TIERS NY/PA;//twintiers.craigslist.org/
+city;UTICA-ROME-ONEIDA;//utica.craigslist.org/
+city;WATERTOWN;//watertown.craigslist.org/
+
+state;N HAMPSHIRE;https://geo.craigslist.org/iso/us/nh;0
+
+state;NORTH DAKOTA;https://geo.craigslist.org/iso/us/nd;4
+city;BISMARCK;//bismarck.craigslist.org/
+city;FARGO / MOORHEAD;//fargo.craigslist.org/
+city;GRAND FORKS;//grandforks.craigslist.org/
+city;NORTH DAKOTA;//nd.craigslist.org/
+
+state;OHIO;https://geo.craigslist.org/iso/us/oh;18
+city;AKRON / CANTON;//akroncanton.craigslist.org/
+city;ASHTABULA;//ashtabula.craigslist.org/
+city;ATHENS;//athensohio.craigslist.org/
+city;CHILLICOTHE;//chillicothe.craigslist.org/
+city;CINCINNATI;//cincinnati.craigslist.org/
+city;CLEVELAND;//cleveland.craigslist.org/
+city;COLUMBUS;//columbus.craigslist.org/
+city;DAYTON / SPRINGFIELD;//dayton.craigslist.org/
+city;HUNTINGTON-ASHLAND;//huntington.craigslist.org/
+city;LIMA / FINDLAY;//limaohio.craigslist.org/
+city;MANSFIELD;//mansfield.craigslist.org/
+city;NORTHERN PANHANDLE;//wheeling.craigslist.org/
+city;PARKERSBURG-MARIETTA;//parkersburg.craigslist.org/
+city;SANDUSKY;//sandusky.craigslist.org/
+city;TOLEDO;//toledo.craigslist.org/
+city;TUSCARAWAS CO;//tuscarawas.craigslist.org/
+city;YOUNGSTOWN;//youngstown.craigslist.org/
+city;ZANESVILLE / CAMBRIDGE;//zanesville.craigslist.org/
+
+state;OKLAHOMA;https://geo.craigslist.org/iso/us/ok;7
+city;FORT SMITH, AR;//fortsmith.craigslist.org/
+city;LAWTON;//lawton.craigslist.org/
+city;NORTHWEST OK;//enid.craigslist.org/
+city;OKLAHOMA CITY;//oklahomacity.craigslist.org/
+city;STILLWATER;//stillwater.craigslist.org/
+city;TEXOMA;//texoma.craigslist.org/
+city;TULSA;//tulsa.craigslist.org/
+
+state;OREGON;https://geo.craigslist.org/iso/us/or;10
+city;BEND;//bend.craigslist.org/
+city;CORVALLIS/ALBANY;//corvallis.craigslist.org/
+city;EAST OREGON;//eastoregon.craigslist.org/
+city;EUGENE;//eugene.craigslist.org/
+city;KLAMATH FALLS;//klamath.craigslist.org/
+city;MEDFORD-ASHLAND;//medford.craigslist.org/
+city;OREGON COAST;//oregoncoast.craigslist.org/
+city;PORTLAND;//portland.craigslist.org/
+city;ROSEBURG;//roseburg.craigslist.org/
+city;SALEM;//salem.craigslist.org/
+
+state;PENNSYLVANIA;https://geo.craigslist.org/iso/us/pa;16
+city;ALTOONA-JOHNSTOWN;//altoona.craigslist.org/
+city;CUMBERLAND VALLEY;//chambersburg.craigslist.org/
+city;ERIE;//erie.craigslist.org/
+city;HARRISBURG;//harrisburg.craigslist.org/
+city;LANCASTER;//lancaster.craigslist.org/
+city;LEHIGH VALLEY;//allentown.craigslist.org/
+city;MEADVILLE;//meadville.craigslist.org/
+city;PHILADELPHIA;//philadelphia.craigslist.org/
+city;PITTSBURGH;//pittsburgh.craigslist.org/
+city;POCONOS;//poconos.craigslist.org/
+city;READING;//reading.craigslist.org/
+city;SCRANTON / WILKES-BARRE;//scranton.craigslist.org/
+city;STATE COLLEGE;//pennstate.craigslist.org/
+city;TWIN TIERS NY/PA;//twintiers.craigslist.org/
+city;WILLIAMSPORT;//williamsport.craigslist.org/
+city;YORK;//york.craigslist.org/
+
+state;RHODE ISLAND;https://geo.craigslist.org/iso/us/ri;0
+
+state;S CAROLINA;https://geo.craigslist.org/iso/us/sc;6
+city;CHARLESTON;//charleston.craigslist.org/
+city;COLUMBIA;//columbia.craigslist.org/
+city;FLORENCE;//florencesc.craigslist.org/
+city;GREENVILLE / UPSTATE;//greenville.craigslist.org/
+city;HILTON HEAD;//hiltonhead.craigslist.org/
+city;MYRTLE BEACH;//myrtlebeach.craigslist.org/
+
+state;SOUTH DAKOTA;https://geo.craigslist.org/iso/us/sd;5
+city;NORTHEAST SD;//nesd.craigslist.org/
+city;PIERRE / CENTRAL SD;//csd.craigslist.org/
+city;RAPID CITY / WEST SD;//rapidcity.craigslist.org/
+city;SIOUX FALLS / SE SD;//siouxfalls.craigslist.org/
+city;SOUTH DAKOTA;//sd.craigslist.org/
+
+state;TENNESSEE;https://geo.craigslist.org/iso/us/tn;8
+city;CHATTANOOGA;//chattanooga.craigslist.org/
+city;CLARKSVILLE;//clarksville.craigslist.org/
+city;COOKEVILLE;//cookeville.craigslist.org/
+city;JACKSON;//jacksontn.craigslist.org/
+city;KNOXVILLE;//knoxville.craigslist.org/
+city;MEMPHIS;//memphis.craigslist.org/
+city;NASHVILLE;//nashville.craigslist.org/
+city;TRI-CITIES;//tricities.craigslist.org/
+
+state;TEXAS;https://geo.craigslist.org/iso/us/tx;28
+city;ABILENE;//abilene.craigslist.org/
+city;AMARILLO;//amarillo.craigslist.org/
+city;AUSTIN;//austin.craigslist.org/
+city;BEAUMONT / PORT ARTHUR;//beaumont.craigslist.org/
+city;BROWNSVILLE;//brownsville.craigslist.org/
+city;COLLEGE STATION;//collegestation.craigslist.org/
+city;CORPUS CHRISTI;//corpuschristi.craigslist.org/
+city;DALLAS / FORT WORTH;//dallas.craigslist.org/
+city;DEEP EAST TEXAS;//nacogdoches.craigslist.org/
+city;DEL RIO / EAGLE PASS;//delrio.craigslist.org/
+city;EL PASO;//elpaso.craigslist.org/
+city;GALVESTON;//galveston.craigslist.org/
+city;HOUSTON;//houston.craigslist.org/
+city;KILLEEN / TEMPLE / FT HOOD;//killeen.craigslist.org/
+city;LAREDO;//laredo.craigslist.org/
+city;LUBBOCK;//lubbock.craigslist.org/
+city;MCALLEN / EDINBURG;//mcallen.craigslist.org/
+city;ODESSA / MIDLAND;//odessa.craigslist.org/
+city;SAN ANGELO;//sanangelo.craigslist.org/
+city;SAN ANTONIO;//sanantonio.craigslist.org/
+city;SAN MARCOS;//sanmarcos.craigslist.org/
+city;SOUTHWEST TX;//bigbend.craigslist.org/
+city;TEXARKANA;//texarkana.craigslist.org/
+city;TEXOMA;//texoma.craigslist.org/
+city;TYLER / EAST TX;//easttexas.craigslist.org/
+city;VICTORIA;//victoriatx.craigslist.org/
+city;WACO;//waco.craigslist.org/
+city;WICHITA FALLS;//wichitafalls.craigslist.org/
+
+state;UTAH;https://geo.craigslist.org/iso/us/ut;5
+city;LOGAN;//logan.craigslist.org/
+city;OGDEN-CLEARFIELD;//ogden.craigslist.org/
+city;PROVO / OREM;//provo.craigslist.org/
+city;SALT LAKE CITY;//saltlakecity.craigslist.org/
+city;ST GEORGE;//stgeorge.craigslist.org/
+
+state;VERMONT;https://geo.craigslist.org/iso/us/vt;0
+
+state;VIRGINIA;https://geo.craigslist.org/iso/us/va;13
+city;CHARLOTTESVILLE;//charlottesville.craigslist.org/
+city;DANVILLE;//danville.craigslist.org/
+city;EASTERN SHORE;//easternshore.craigslist.org/
+city;FREDERICKSBURG;//fredericksburg.craigslist.org/
+city;HAMPTON ROADS;//norfolk.craigslist.org/
+city;HARRISONBURG;//harrisonburg.craigslist.org/
+city;LYNCHBURG;//lynchburg.craigslist.org/
+city;NEW RIVER VALLEY;//blacksburg.craigslist.org/
+city;RICHMOND;//richmond.craigslist.org/
+city;ROANOKE;//roanoke.craigslist.org/
+city;SOUTHWEST VA;//swva.craigslist.org/
+city;WINCHESTER;//winchester.craigslist.org/
+city;NORTHERN VIRGINIA;//washingtondc.craigslist.org/nva/
+
+state;WASHINGTON;https://geo.craigslist.org/iso/us/wa;12
+city;BELLINGHAM;//bellingham.craigslist.org/
+city;KENNEWICK-PASCO-RICHLAND;//kpr.craigslist.org/
+city;LEWISTON / CLARKSTON;//lewiston.craigslist.org/
+city;MOSES LAKE;//moseslake.craigslist.org/
+city;OLYMPIC PENINSULA;//olympic.craigslist.org/
+city;PULLMAN / MOSCOW;//pullman.craigslist.org/
+city;SEATTLE-TACOMA;//seattle.craigslist.org/
+city;SKAGIT / ISLAND / SJI;//skagit.craigslist.org/
+city;SPOKANE / COEUR D'ALENE;//spokane.craigslist.org/
+city;WENATCHEE;//wenatchee.craigslist.org/
+city;YAKIMA;//yakima.craigslist.org/
+city;CLARK CO / SW WA;//portland.craigslist.org/clk/
+
+state;WEST VIRGINIA;https://geo.craigslist.org/iso/us/wv;8
+city;CHARLESTON;//charlestonwv.craigslist.org/
+city;EASTERN PANHANDLE;//martinsburg.craigslist.org/
+city;HUNTINGTON-ASHLAND;//huntington.craigslist.org/
+city;MORGANTOWN;//morgantown.craigslist.org/
+city;NORTHERN PANHANDLE;//wheeling.craigslist.org/
+city;PARKERSBURG-MARIETTA;//parkersburg.craigslist.org/
+city;SOUTHERN WV;//swv.craigslist.org/
+city;WEST VIRGINIA (OLD);//wv.craigslist.org/
+
+state;WISCONSIN;https://geo.craigslist.org/iso/us/wi;12
+city;APPLETON-OSHKOSH-FDL;//appleton.craigslist.org/
+city;DULUTH / SUPERIOR;//duluth.craigslist.org/
+city;EAU CLAIRE;//eauclaire.craigslist.org/
+city;GREEN BAY;//greenbay.craigslist.org/
+city;JANESVILLE;//janesville.craigslist.org/
+city;KENOSHA-RACINE;//racine.craigslist.org/
+city;LA CROSSE;//lacrosse.craigslist.org/
+city;MADISON;//madison.craigslist.org/
+city;MILWAUKEE;//milwaukee.craigslist.org/
+city;NORTHERN WI;//northernwi.craigslist.org/
+city;SHEBOYGAN;//sheboygan.craigslist.org/
+city;WAUSAU;//wausau.craigslist.org/
+

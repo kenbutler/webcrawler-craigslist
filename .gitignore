@@ -1,0 +1,8 @@
+$ cat .gitignore
+
+# Ignore files within archive folder
+archive/*
+
+# Ignore Links folder entirely
+Links/*
+
