@@ -17,6 +17,7 @@ newline = "\n"
 invalid_tags = ['b', 'i', 'u', 'span', 'sup', 'em']
 wd = "/Users/kenbutler/Desktop/coding/python/output_files/"
 date = time.strftime("%B_%d_%Y")
+search_location = "search/"
 
 ####################################################################
 
@@ -58,7 +59,7 @@ def exploreCities(myLib, state, search_term):
         for i in range(0, len(myLib[state][1])):
             term_ct = 0
             url_base = "https:" + myLib[state][1][i][1]
-            url = url_base + "search/rea"
+            url = url_base + search_location
             response = urllib.urlopen(url)
             page = response.read()
             # DO NOT PERFORM AN IGNORE TAGS METHOD HERE
@@ -245,6 +246,11 @@ def inPageBool(url, term):
 
 def scheduler(argv):
 
+    global wd
+    global search_location
+
+    temp = True
+
     try:
         myLib = loadLibrary()
         # Print for load check
@@ -258,9 +264,25 @@ def scheduler(argv):
     except:
         print("Error loading database")
 
-             
-    menuOptions()
-    while True:
+    # Use input argument to set search location on Craigslist and
+    # working directory for output files
+    search_location = "search/" + argv
+    print("Search location set to " + search_location)
+    if (argv == 'rea'):
+        wd = wd + "housing/"
+    elif (argv == 'jjj'):
+        wd = wd + 'jobs/'
+    elif (argv == 'ggg'):
+        wd = wd + 'gigs/'
+    else:
+        print("Cannot properly set working directory! Re-examine code! (" + argv  + ")")
+        
+    print("Working directory set to " + wd + newline)
+    temp = True
+
+    if (temp):
+        menuOptions()
+    while temp:
         ui = raw_input(">>> ")
         if (ui.upper() == "QUIT"):
             break
@@ -272,5 +294,5 @@ def scheduler(argv):
 
 ####################################################################
 
-scheduler(sys.argv[1:])
+#scheduler(sys.argv[1:])
 
