@@ -1,8 +1,14 @@
 $ cat .gitignore
 
+# Compiled python files
+*.pyc
+
 # Ignore files within archive folder
 archive/*
+output_files/*
 
-# Ignore Links folder entirely
-Links/*
+# Other
+.DS_Store
+*.jpg
+*.png
 
